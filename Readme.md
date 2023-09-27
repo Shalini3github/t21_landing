@@ -1,1 +1,1 @@
-<a href="https://shalini3github.github.io/t21_landing/">Landing Page</a>
+<a href="https://shalini3github.github.io/t2_landing/">Landing Page</a>
